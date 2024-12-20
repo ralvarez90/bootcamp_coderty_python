@@ -1,0 +1,7 @@
+Region,Producto,Ventas,Fecha
+Norte,A,100,2023-01-01
+Sur,B,150,2023-01-01
+Este,A,200,2023-01-02
+Oeste,C,250,2023-01-02
+Norte,B,120,2023-01-03
+Sur,C,180,2023-01-03
